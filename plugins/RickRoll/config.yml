@@ -1,0 +1,9 @@
+admin_permission: rickroll.admin
+no_permission: '&cYou are not allowed to do that!'
+video_link: https://www.youtube.com/watch?v=a3Z7zEc7AXQ
+message_receiver: |2+
+
+
+  &7Since our store was partially offline yesterday, we are now giving away one month of free &6VIP&7! Click &e&lHERE &7to claim it!
+
+message_sender: '&aThe player(s( was/were rick rolled!'
